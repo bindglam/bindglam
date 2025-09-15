@@ -1,4 +1,4 @@
-## Hello. 👋 I'm Woobeen Jeon. I'm 14 years old.
+## Hello. 👋 I'm Woobeen Jeon.
 
 I'm a middle school student from Korea. 🌱 I love Minecraft plugin development. ⚡
 
